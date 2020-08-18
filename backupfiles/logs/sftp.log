@@ -1,0 +1,24 @@
+Aug 10 10:56:26 10.71.61.0 tmp43572937-6294 Connection from 10.71.61.0 port 16386 on 74.208.57.88 port 22
+Aug 10 10:56:26 10.71.61.0 tmp43572937-6294 Accepted password for tmp43572937-6294 from 10.71.61.0 port 16386 ssh2
+Aug 10 10:56:26 10.71.60.0 tmp43572937-5027 Connection from 10.71.60.0 port 56574 on 74.208.57.88 port 22
+Aug 10 10:56:27 10.71.60.0 tmp43572937-5027 Accepted password for tmp43572937-5027 from 10.71.60.0 port 56574 ssh2
+Aug 10 10:56:27 10.71.61.0 tmp43572937-6294 Starting session: subsystem 'sftp' for tmp43572937-6294 from 10.71.61.0 port 16386 id 0
+Aug 10 10:56:27 10.71.61.0 tmp43572937-6294 session opened for local user tmp43572937-6294 from [10.71.61.0]
+Aug 10 10:56:27 10.71.60.0 tmp43572937-5027 Starting session: subsystem 'sftp' for tmp43572937-5027 from 10.71.60.0 port 56574 id 0
+Aug 10 10:56:27 10.71.60.0 tmp43572937-5027 session opened for local user tmp43572937-5027 from [10.71.60.0]
+Aug 10 11:12:43 10.71.61.0 tmp43572937-2799 Connection from 10.71.61.0 port 32948 on 74.208.57.88 port 22
+Aug 10 11:12:44 10.71.61.0 tmp43572937-2799 Accepted password for tmp43572937-2799 from 10.71.61.0 port 32948 ssh2
+Aug 10 11:12:45 10.71.61.0 tmp43572937-6294 open "/css/jmiller.css" flags READ mode 0666
+Aug 10 11:12:45 10.71.61.0 tmp43572937-6294 close "/css/jmiller.css" bytes read 2141 written 0
+Aug 10 11:12:45 10.71.61.0 tmp43572937-6294 [10.71.61.0|get|0|2141|0|0|0|2f6373732f6a6d696c6c65722e637373|]
+Aug 10 11:50:25 10.71.61.0 tmp43572937-6294 open "/images/Joaquin Miller pics.090.jpg" flags READ mode 0666
+Aug 10 11:50:26 10.71.61.0 tmp43572937-6294 close "/images/Joaquin Miller pics.090.jpg" bytes read 78790 written 0
+Aug 10 11:50:26 10.71.61.0 tmp43572937-6294 [10.71.61.0|get|1|78790|0|0|0|2f696d616765732f4a6f617175696e204d696c6c657220706963732e3039302e6a7067|]
+Aug 10 11:52:11 10.71.60.0 tmp43572937-5027 session closed for local user tmp43572937-5027 from [10.71.60.0]
+Aug 10 11:52:11 10.71.60.0 tmp43572937-5027 Connection closed by 10.71.60.0 port 56574
+Aug 10 12:03:32 10.71.61.0 tmp43572937-9848 Connection from 10.71.61.0 port 46764 on 74.208.57.88 port 22
+Aug 10 12:03:32 10.71.61.0 tmp43572937-9848 Accepted password for tmp43572937-9848 from 10.71.61.0 port 46764 ssh2
+Aug 10 12:03:33 10.71.61.0 tmp43572937-9848 Starting session: subsystem 'sftp' for tmp43572937-9848 from 10.71.61.0 port 46764 id 0
+Aug 10 12:03:33 10.71.61.0 tmp43572937-9848 session opened for local user tmp43572937-9848 from [10.71.61.0]
+Aug 10 12:08:58 10.71.61.0 tmp43572937-2947 Connection from 10.71.61.0 port 54020 on 74.208.57.88 port 22
+Aug 10 12:08:58 10.71.61.0 tmp43572937-2947 Accepted password for tmp43572937-2947 from 10.71.61.0 port 54020 ssh2
